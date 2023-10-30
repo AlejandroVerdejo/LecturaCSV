@@ -1,0 +1,4 @@
+pepe:4
+ana:7
+luisa:9
+diego:4
